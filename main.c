@@ -14,7 +14,7 @@
  **************************************************************************************************/
 
 #ifndef GENERATION_DONE
-#error You must run generate first!
+#error You must run generate first! test
 #endif
 
 /* Board headers */
